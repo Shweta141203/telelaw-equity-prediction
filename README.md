@@ -57,8 +57,8 @@ It answers:
 
 | File | Description |
 |------|-------------|
-| `Telelaw_Prediction.pptx` | My final presentation slides 🎤  
-| `telelaw_cleaned.csv`     | Cleaned dataset with engineered features  
+| `Project_ml_TeleLaw.pptx` | My final presentation slides 🎤  
+| `low_Equity_Dataset.csv`     | Cleaned dataset with engineered features  
 | `prediction_output.png`   | Screenshot of the deployed model’s prediction 🔮  
 | `README.md`               | This magical write-up 🌟
 
